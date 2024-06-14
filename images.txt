@@ -1,1 +1,2 @@
-ghcr.io/open-webui/open-webui:main
+b3log/siyuan:latest
+1panel/openresty 
