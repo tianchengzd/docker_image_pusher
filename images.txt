@@ -1,2 +1,1 @@
-b3log/siyuan:latest
-1panel/openresty 
+ddsderek/easyimage:latest
