@@ -1,1 +1,1 @@
-helloz/onenav
+ghcr.io/open-webui/open-webui:main
